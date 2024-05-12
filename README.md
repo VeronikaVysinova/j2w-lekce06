@@ -1,8 +1,8 @@
 # Lekce 6 – HTML formuláře 2
 
-Dnes budeme pokračovat ve zpracování formulářů. Ukážeme si, jak se dělají výběry, a hlavně jak se validují data formuláře.  
+Dnes budeme pokračovat ve zpracování formulářů. Ukážeme si, jak se dělají výběry a hlavně jak se validují data formuláře.  
 
-1. Udělej fork zdrojového repository do svého účtu na GitHubu.
+1. Použij toto repository jako šablonu (Use this template), ze které si vytvoříš repository ve svém účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 
 ### Úkol ve skupinkách

@@ -13,13 +13,13 @@
         <h1>Objednávka alkoholu</h1>
         <label for="zbozi" class="radek">Zboží:</label>
         [@spring.formSingleSelect path="form.zbozi" options={
-            "": "",
-            "1": "Veltlín – Sauvignon kabinet",
-            "2": "Rulanské šedé suché",
-            "3": "Modrý Portugal",
-            "4": "Frisco Mojito",
-            "5": "Žufánek Višňovka",
-            "6": "Jägermeister"
+        "": "",
+        "1": "Veltlín – Sauvignon kabinet",
+        "2": "Rulanské šedé suché",
+        "3": "Modrý Portugal",
+        "4": "Frisco Mojito",
+        "5": "Žufánek Višňovka",
+        "6": "Jägermeister"
         } /]
         <div class="error">[@spring.showErrors "<br>"/]</div>
 

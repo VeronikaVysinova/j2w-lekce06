@@ -13,14 +13,14 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("/rocni-obdobi")
 public class RocniObdobiController {
- @GetMapping("")
- public ModelAndView get() {
-  return new ModelAndView("rocni-obdobi")
-          .addObject("form", new RocniObdobiForm());
- }
+    @GetMapping("")
+    public ModelAndView get() {
+        return new ModelAndView("rocni-obdobi")
+                .addObject("form", new RocniObdobiForm());
+    }
 
- @PostMapping("")
- public String post(@ModelAttribute("form") RocniObdobiForm form) {
-  return "rocni-obdobi";
- }
+    @PostMapping("")
+    public String post(@ModelAttribute("form") RocniObdobiForm form) {
+        return "rocni-obdobi";
+    }
 }

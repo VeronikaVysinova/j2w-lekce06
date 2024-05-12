@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/cokolada")
 public class CokoladaController {
-  @GetMapping("")
-  public Object index() {
-    return "/cokolada/formular";
-  }
+    @GetMapping("")
+    public Object index() {
+        return "/cokolada/formular";
+    }
 
 }
