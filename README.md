@@ -16,4 +16,4 @@ Dnes budeme pokračovat ve zpracování formulářů. Ukážeme si, jak se děla
 1. Doplň do formuláře zobrazení chybových hlášek z validace.
 
 ## Odkazy
-* [Lekce 6](https://java.czechitas.cz/2023-podzim/java-2-online/lekce-6.html)
+* [Lekce 6](https://java.czechitas.cz/2024-jaro/java-2-online/lekce-6.html)
