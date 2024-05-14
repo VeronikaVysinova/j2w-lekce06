@@ -26,15 +26,15 @@
         <div class="radek">Objem:</div>
         <div class="skupina">
             <div>
-                <input id="objem1" type="radio" name="objem" value="OBJEM_250ML"/>
+                <input id="objem1" type="radio" name="objem" value="OBJEM_250ML" [#if form.objem! == "OBJEM_250ML"]checked[/#if]/>
                 <label for="objem1">250 ml</label>
             </div>
             <div>
-                <input id="objem2" type="radio" name="objem" value="OBJEM_750ML"/>
+                <input id="objem2" type="radio" name="objem" value="OBJEM_750ML" [#if form.objem! == "OBJEM_750ML"]checked[/#if]/>
                 <label for="objem2">750 ml</label>
             </div>
             <div>
-                <input id="objem3" type="radio" name="objem" value="OBJEM_5L"/>
+                <input id="objem3" type="radio" name="objem" value="OBJEM_5L" [#if form.objem! == "OBJEM_5L"]checked[/#if]/>
                 <label for="objem3">5 litrů</label>
             </div>
         </div>
