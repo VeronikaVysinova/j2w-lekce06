@@ -15,7 +15,7 @@
         [@spring.formSingleSelect path="form.zbozi" options={
         "": "",
         "1": "Veltlín – Sauvignon kabinet",
-        "2": "Rulanské šedé suché",
+        "2": "Ruladnské šedé suché",
         "3": "Modrý Portugal",
         "4": "Frisco Mojito",
         "5": "Žufánek Višňovka",
